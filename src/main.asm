@@ -9,7 +9,6 @@ start:
     jmp main
 
 
-
 puts:
     
     push si

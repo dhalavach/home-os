@@ -1,0 +1,5 @@
+{
+  "makefile.configureOnOpen": false,
+  "C_Cpp.default.compilerPath": "/home/kopfmann/os/home-os/src/bootloader/bootloader.c",
+  "C_Cpp.errorSquiggles": "disabled"
+}
